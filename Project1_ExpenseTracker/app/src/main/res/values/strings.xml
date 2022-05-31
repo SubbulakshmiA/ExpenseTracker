@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Expense Tracker</string>
+    <string-array name="sort_by">
+        <item>Recent</item>
+        <item>Item Name</item>
+        <item>Low to High</item>
+        <item>High to Low</item>
+    </string-array>
+
+
+</resources>
