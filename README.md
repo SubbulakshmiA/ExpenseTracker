@@ -14,4 +14,4 @@ internal storage.
 | IDE/Editor        | Languages   | Tools      |
 | ----------------- | ----------- | ---------- |
 | * Android Studio  | * Kotlin    | * XML     | 
-| * IntelliJ IDEA   | * SQLite    | * Postman  |
+| * IntelliJ IDEA   | * SQLite- RoomDB 
